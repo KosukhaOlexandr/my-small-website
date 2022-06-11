@@ -1,0 +1,18 @@
+---
+title: "Olexandr Kosukha"
+---
+
+I am a student at Taras Shevchenko National University of Kyiv studying Computer Science.
+
+![Otter](otter.jpg)
+
+```{r}
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+#| echo: false
+
+plot(cars)
+plot(pressure)
+```

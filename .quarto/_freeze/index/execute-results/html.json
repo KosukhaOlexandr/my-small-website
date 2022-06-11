@@ -1,0 +1,16 @@
+{
+  "hash": "4164a3b04f08787f92b20ed86cf501c1",
+  "result": {
+    "markdown": "---\ntitle: \"Olexandr Kosukha\"\n---\n\n\nI am a student at Taras Shevchenko National University of Kyiv studying Computer Science.\n\n![Otter](otter.jpg)\n\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
