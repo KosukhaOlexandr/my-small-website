@@ -1,7 +1,7 @@
 {
-  "hash": "c9ec779d36dbb480a53a26411d07b9d2",
+  "hash": "eb2948d4d1a6c0676238f24441fdb883",
   "result": {
-    "markdown": "---\ntitle: \"Olexandr Kosukha\"\n---\n\n\nI am a student at Taras Shevchenko National University of Kyiv studying Computer Science.\n\n![Otter](images/otter.jpg){#fig-one-otter}\n\n![Many otters!](images/many_otters.jpg){#fig-many-otters}\n\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::",
+    "markdown": "---\ntitle: \"Olexandr Kosukha\"\n---\n\n\nI am a student at Taras Shevchenko National University of Kyiv studying Computer Science.\n\n::: {#fig-otters layout-ncol=2 layout-valign=\"bottom\"}\n\n![Otter](images/otter.jpg){#fig-one-otter}\n\n![Many otters!](images/many_otters.jpg){#fig-many-otters}\n\nOtters\n:::\n\n::: {.cell layout-ncol=\"2\"}\n::: {.cell-output-display}\n![Speed and Stopping Distances of Cars](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n\n::: {.cell-output-display}\n![Vapor Pressure of Mercury as a Function of Temperature](index_files/figure-html/unnamed-chunk-1-2.png){width=672}\n:::\n:::",
     "supporting": [
       "index_files"
     ],
