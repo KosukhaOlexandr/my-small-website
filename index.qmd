@@ -4,9 +4,9 @@ title: "Olexandr Kosukha"
 
 I am a student at Taras Shevchenko National University of Kyiv studying Computer Science.
 
-![Otter](otter.jpg){#fig-one-otter}
+![Otter](images/otter.jpg){#fig-one-otter}
 
-![Many otters!](many_otters.jpg){#fig-many-otters}
+![Many otters!](images/many_otters.jpg){#fig-many-otters}
 
 ```{r}
 #| layout-ncol: 2
