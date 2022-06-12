@@ -4,6 +4,8 @@ title: "Olexandr Kosukha"
 
 I am a student at Taras Shevchenko National University of Kyiv studying Computer Science.
 
+There are some cool otter photos:
+
 ::: {#fig-otters layout-ncol=2 layout-valign="bottom"}
 
 ![Otter](images/otter.jpg){#fig-one-otter}
